@@ -1,3 +1,5 @@
+!! Kendi key ve token'nınızı General Environment class'ında tanımlamanız gerekmektedir. !!
+
 Board test class'ı sahip olduğu testler:
 --------------------
 * Board oluşturma ve id'sini board.json içine kaydetme
